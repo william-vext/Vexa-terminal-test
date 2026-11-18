@@ -9,4 +9,6 @@ The terminal test supports only 5 extensions (Rust,C++,C,JavaScript,Python,Lua) 
 # Explaining Components
 Rename -> change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
 
-Create 
+Create -> create files and folders
+Move -> can move files and folders to another folder
+Remove -> remove a file and remove the folder and all your content, this action is permanent 
