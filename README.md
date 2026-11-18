@@ -24,7 +24,9 @@ configurations -> Change the default code editor by modifying the code in the ve
 
 InvalidCharacter -> detect if the argument has invalid characters
 
-Edit -> can change the code
+Edit -> can change the file code
+
+Compile -> responsible for compiling/executing files or programs
 
 # Basic Commands:
 
