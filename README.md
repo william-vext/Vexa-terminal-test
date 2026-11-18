@@ -55,12 +55,24 @@ Check files and folders: ls
 
 Check files: checker rs file,checker c file, checker c++ file, checker c file, checker js file, checker py file, checker lua file
 
-Check dir: checker dir
+Check dir: checker folder
 
-Check compiler: checker compiler
+Check compiler/interpreter/program supported: checker compiler
 
-Check interpreter: checker interpreter
 
+To compile the file you just need to enter the interpreter/compiler name:
+
+rustc
+
+clang++
+
+clang
+
+nodejs
+
+python
+
+lua
 
 
 
