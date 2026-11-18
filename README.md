@@ -1,3 +1,3 @@
 # Vexa-terminal-test
 
-#What's Vexa?
+# What's Vexa?
