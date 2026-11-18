@@ -78,4 +78,22 @@ lua
 after this the terminal will ask the file name 
 
 
+# Vexa problems
+1° -> immobile cursor.
+
+2° -> doesn't have cd, which can make things difficult in large projects. 
+
+3° -> the commands used in code can work on some operating systems
+
+4° -> doesn't have support to GitHub
+
+5° -> cannot install more programs
+
+6° -> few extensions, can make difficult who don't program on those 6 languages 
+
+7° -> don't have support to extension .txt
+
+8° -> if your file or folder have invalid characters any operation is impossible
+
+
 
