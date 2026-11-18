@@ -28,6 +28,8 @@ Edit -> can change the file code
 
 Compile -> responsible for compiling/executing files or programs
 
+Error -> Tell's what happend and why the operation can't be executed 
+
 # Basic Commands:
 
 [WARNING]: The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
@@ -55,8 +57,9 @@ Check files: checker rs file,checker c file, checker c++ file, checker c file, c
 
 Check dir: checker dir
 
+Check compiler: checker compiler
 
-
+Check interpreter: checker interpreter
 
 
 
