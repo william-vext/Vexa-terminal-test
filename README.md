@@ -30,6 +30,9 @@ Compile -> responsible for compiling/executing files or programs
 
 # Basic Commands:
 
+[WARNING]: The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
+
+
 Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
 
 Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
@@ -45,6 +48,9 @@ Rename dir: rnm dir, rnm folder
 Move dir: mv dir, mv folder
 
 Remove dir: rm -f dir 
+
+Check files and folders: ls
+
 
 
 
