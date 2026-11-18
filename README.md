@@ -14,3 +14,7 @@ Create -> create files and folders
 Move -> can move files and folders to another folder
 
 Remove -> remove a file and remove the folder and all your content, this action is permanent 
+
+Checker -> the component returns a true or false to a existence of a file or folder
+
+
