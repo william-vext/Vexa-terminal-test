@@ -96,4 +96,8 @@ after this the terminal will ask the file name
 8° -> if your file or folder have invalid characters any operation is impossible
 
 
+# How to run Vexa:
+
+## Requirements:
+
 
