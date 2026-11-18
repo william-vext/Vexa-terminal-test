@@ -21,7 +21,10 @@ configurations -> Change the default code editor by modifying the code in the ve
 
 InvalidCharacter -> detect if the argument has invalid characters
 
+# Basic Commands:
 
+create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
 
+rename file: rename file, 
 
 
