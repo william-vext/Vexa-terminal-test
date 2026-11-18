@@ -19,6 +19,9 @@ Checker -> the component returns a true or false to a existence of a file or fol
 
 configurations -> Change the default code editor by modifying the code in the vexa.lock file
 
+InvalidCharacter -> detect if the argument has invalid characters
+
+
 
 
 
