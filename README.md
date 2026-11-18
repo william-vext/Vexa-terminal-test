@@ -23,8 +23,14 @@ InvalidCharacter -> detect if the argument has invalid characters
 
 # Basic Commands:
 
-create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
+Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
 
-rename file: rename file, 
+Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
+
+Move file: mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
+
+Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
+
+
 
 
