@@ -31,6 +31,13 @@ Move file: mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, 
 
 Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
 
+Create dir: mkdir, create dir, create folder
+
+Rename dir: rnm dir, rnm folder
+
+Move dir: mv dir, mv folder
+
+Remove: rm 
 
 
 
