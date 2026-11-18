@@ -51,6 +51,12 @@ Remove dir: rm -f dir
 
 Check files and folders: ls
 
+Check files: checker rs file,checker c file, checker c++ file, checker c file, checker js file, checker py file, checker lua file
+
+Check dir: checker dir
+
+
+
 
 
 
