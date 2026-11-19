@@ -151,5 +151,11 @@ clone the project:
 
 git clone https://github.com/william-vext/Vexa-terminal-test.git
 
+## Running Vexa
+After the installation run these commands to run Vexa:
+
+cd Vexa
+
+cargo run
 
 
