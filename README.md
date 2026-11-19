@@ -38,7 +38,31 @@ The letters in the commands must be lowercase, because the input function aren't
 ## Commands: 
 - ## Create file: 
 
-create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
+```bash
+create file 
+```
+
+```bash
+create rs file
+```
+
+```bash
+create c++ file
+```
+
+```bash
+create c file
+```
+
+```bash
+create js file
+```
+
+```bash
+create py file
+```
+
+create lua file
 
 - Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
 
