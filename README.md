@@ -100,4 +100,17 @@ after this the terminal will ask the file name
 
 ## Requirements:
 
+- Rust compiler version: 1.85+
+- Cargo
+- Git
+- Nano (to be able to write code)
+
+## Termux:
+
+installing the necessary:
+
+pkg update && pkg upgrade
+
+pkg install git rust nano
+
 
