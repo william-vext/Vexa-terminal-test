@@ -62,11 +62,42 @@ create js file
 create py file
 ```
 
+```bash
 create lua file
+```
 
-- Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
+## Rename file: 
 
-- Move file: mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
+```bash
+rnm file
+```
+
+```bash
+rnm rs file
+```
+
+```bash
+rnm c++ file
+```
+
+```bash
+rnm c file 
+```
+
+```bash
+rnm js file
+```
+
+```bash
+rnm py file
+```
+
+```bash
+rnm lua file
+```
+
+## Move file: 
+mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
 
 - Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
 
