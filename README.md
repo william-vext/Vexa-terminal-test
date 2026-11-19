@@ -104,9 +104,21 @@ after this the terminal will ask the file name
 - Rust compiler version: 1.85+
 - Cargo
 - Git
-- Nano (to be able to write code)
+- Clang
+- Python 3
+- Node.js
+- Lua 5.4
+
+Nano is optional and is only required if you want to edit files from the terminal.
 
 ## Termux:
+
+Update packages:
+
+```bash
+pkg update && upgrade
+```
+
 
 - installing the necessary:
 
