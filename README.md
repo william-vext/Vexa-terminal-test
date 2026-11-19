@@ -112,8 +112,35 @@ rnm py file
 rnm lua file
 ```
 
-## Move file: 
-mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
+## Move file:
+
+```bash
+mv file
+```
+
+```bash
+mv rs file
+```
+
+```bash
+mv c++ file
+```
+
+```bash
+mv c file
+```
+
+```bash
+mv js file
+```
+
+```bash
+mv py file
+```
+
+```bash
+mv lua file
+```
 
 - Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
 
@@ -127,27 +154,69 @@ mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
 
 - Check files and folders: ls
 
-- Check files: checker rs file,checker c file, checker c++ file, checker c file, checker js file, checker py file, checker lua file
+## Check files: 
 
-- Check dir: checker folder
+```bash
+checker rs file
+```
 
-- Check compiler/interpreter/program supported: checker compiler
+```bash
+checker c file
+```
 
+```bash
+checker c++ file
+```
+
+```bash
+checker c file
+```
+
+```bash
+checker js file
+```
+
+```bash
+checker py file, checker lua file
+```
+
+## Check dir: 
+
+```bash
+checker folder
+```
+
+## Check compiler/interpreter/program supported: 
+
+```bash
+checker program
+```
 
 To compile the file you just need to enter the interpreter/compiler name:
 
+```bash
 rustc
+```
 
+```bash
 clang++
+```
 
+```bash
 clang
+```
 
+```bash
 nodejs
+```
 
+```bash
 python
+```
 
+```bash
 lua
-
+```
 
 after this the terminal will ask the file name 
 
