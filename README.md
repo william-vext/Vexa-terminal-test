@@ -142,17 +142,81 @@ mv py file
 mv lua file
 ```
 
-- Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
+## Remove: 
 
-- Create dir: mkdir, create dir, create folder
+```bash
+rm file
+```
 
-- Rename dir: rnm dir, rnm folder
+```bash
+rm rs file
+```
 
-- Move dir: mv dir, mv folder
+```bash
+rm c++ file
+```
 
-- Remove dir: rm -f dir 
+```bash
+rm c file
+``` 
 
-- Check files and folders: ls
+```bash
+rm js file 
+```
+
+```bash
+rm py file
+``` 
+
+```bash
+rm lua file
+```
+
+## Create dir: 
+
+```bash
+mkdir
+```
+
+```bash
+create dir
+``` 
+
+```bash
+create folder
+```
+
+## Rename dir: 
+
+```bash
+rnm dir
+```
+
+```bash
+rnm folder
+```
+
+## Move dir: 
+
+```bash
+mv dir
+```
+
+```bash
+mv folder
+```
+
+## Remove dir: 
+
+```bash
+rm -f dir 
+```
+
+## Check files and folders: 
+
+```bash
+ls
+```
 
 ## Check files: 
 
