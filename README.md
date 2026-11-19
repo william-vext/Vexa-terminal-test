@@ -80,21 +80,21 @@ after this the terminal will ask the file name
 
 
 # Vexa problems
-1° -> immobile cursor.
+- 1° -> immobile cursor.
 
-2° -> doesn't have cd, which can make things difficult in large projects. 
+- 2° -> doesn't have cd, which can make things difficult in large projects. 
 
-3° -> the commands used in code can work on some operating systems
+- 3° -> the commands used in code can work on some operating systems
 
-4° -> doesn't have support to GitHub
+- 4° -> doesn't have support to GitHub
 
-5° -> cannot install more programs
+- 5° -> cannot install more programs
 
-6° -> few extensions, can make difficult who don't program on those 6 languages 
+- 6° -> few extensions, can make difficult who don't program on those 6 languages 
 
-7° -> don't have support to extension .txt
+- 7° -> don't have support to extension .txt
 
-8° -> if your file or folder have invalid characters any operation is impossible
+- 8° -> if your file or folder have invalid characters any operation is impossible
 
 
 # How to run Vexa:
@@ -108,15 +108,15 @@ after this the terminal will ask the file name
 
 ## Termux:
 
-installing the necessary:
+- installing the necessary:
 
-pkg update && pkg upgrade
+- pkg update && pkg upgrade
 
-pkg install git 
+- pkg install git 
 
-pkg install rust 
+- pkg install rust 
 
-pkg install nano
+- pkg install nano
 
 
 clone the project:
@@ -126,8 +126,8 @@ git clone https://github.com/william-vext/Vexa-terminal-test.git
 
 ## macOS
 
-brew install git rustup
-brew llvm python node lua
+- brew install git rustup
+- brew llvm python node lua
 
 clone the project:
 
@@ -135,9 +135,9 @@ git clone https://github.com/william-vext/Vexa-terminal-test.git
 
 ## Linux
 
-sudo apt update
+- sudo apt update
 
-sudo apt install git curl build- essential clang python3 nodejs lua5.4
+- sudo apt install git curl build- - - - essential clang python3 nodejs lua5.4
 
 clone the project:
 
@@ -155,8 +155,8 @@ git clone https://github.com/william-vext/Vexa-terminal-test.git
 ## Running Vexa
 After the installation run these commands to run Vexa:
 
-cd Vexa
+- cd Vexa
 
-cargo run
+- cargo run
 
 
