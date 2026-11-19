@@ -119,22 +119,17 @@ Update packages:
 pkg update && upgrade
 ```
 
+Install the required tools:
 
-- installing the necessary:
+```bash
+pkg install git rust clang python nodejs Lua nano
+```
 
-- pkg update && pkg upgrade
+Clone the project:
 
-- pkg install git 
-
-- pkg install rust 
-
-- pkg install nano
-
-
-clone the project:
-
+```bash
 git clone https://github.com/william-vext/Vexa-terminal-test.git
-
+```
 
 ## macOS
 
