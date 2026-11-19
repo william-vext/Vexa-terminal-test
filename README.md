@@ -10,32 +10,32 @@ The terminal test only supports 6 extensions (Rust,C++,C,JavaScript,Python,Lua) 
 The terminal test only supports 3 editors (Nano,Vim,Neovim)
 
 # Explaining Components
-Rename -> change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
+- Rename -> change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
 
-Create -> create files and folders
+- Create -> create files and folders
 
-Move -> can move files and folders to another folder
+- Move -> can move files and folders to another folder
 
-Remove -> remove a file and remove the folder and all your content, this action is permanent 
+- Remove -> remove a file and remove the folder and all your content, this action is permanent 
 
-Checker -> the component returns a true or false to a existence of a file or folder, the component can check if programs supported is installed or not
+- Checker -> the component returns a true or false to a existence of a file or folder, the component can check if programs supported is installed or not
 
-configurations -> Change the default code editor by modifying the code in the vexa.lock file
+- configurations -> Change the default code editor by modifying the code in the vexa.lock file
 
-InvalidCharacter -> detect if the argument has invalid characters
+- InvalidCharacter -> detect if the argument has invalid characters
 
-Edit -> can change the file code
+- Edit -> can change the file code
 
-Compile -> responsible for compiling/executing files or programs
+- Compile -> responsible for compiling/executing files or programs
 
-Error -> Tell's what happend and why the operation can't be executed 
+- Error -> Tell's what happend and why the operation can't be executed 
 
 # Basic Commands:
 
 ## [WARNING]: 
 The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
 
-
+## Commands: 
 - Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
 
 - Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
