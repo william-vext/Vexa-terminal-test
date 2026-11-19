@@ -36,7 +36,11 @@ The terminal test only supports 3 editors (Nano,Vim,Neovim)
 The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
 
 ## Commands: 
-- Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
+- ## Create file: 
+
+```bash
+create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
+```
 
 - Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
 
