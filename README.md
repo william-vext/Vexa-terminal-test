@@ -123,3 +123,33 @@ clone the project:
 git clone https://github.com/william-vext/Vexa-terminal-test.git
 
 
+## macOS
+
+brew install git rustup
+brew llvm python node lua
+
+clone the project:
+
+git clone https://github.com/william-vext/Vexa-terminal-test.git
+
+## Linux
+
+sudo apt update
+
+sudo apt install git curl build- essential clang python3 nodejs lua5.4
+
+clone the project:
+
+git clone https://github.com/william-vext/Vexa-terminal-test.git
+
+
+## Windows 
+
+winget install -e --id Git.Git && winget install -e --id Python.Python.3.12 && winget install -e --id OpenJS.NodeJS && winget install -e --id Rustlang.Rustup && winget install -e --id LuaOrg.Lua.5.4
+
+clone the project:
+
+git clone https://github.com/william-vext/Vexa-terminal-test.git
+
+
+
