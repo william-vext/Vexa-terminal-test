@@ -111,7 +111,11 @@ installing the necessary:
 
 pkg update && pkg upgrade
 
-pkg install git rust nano
+pkg install git 
+
+pkg install rust 
+
+pkg install nano
 
 
 clone the project:
