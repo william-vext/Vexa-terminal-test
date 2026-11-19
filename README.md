@@ -135,37 +135,97 @@ git clone https://github.com/william-vext/Vexa-terminal-test.git
 
 ## macOS
 
-- brew install git rustup
-- brew llvm python node lua
+Install Homebrew if you don't have it.
 
-clone the project:
+Install the required tools:
 
+```bash
+brew install git rust llvm python node lua
+```
+
+Clone the project:
+
+```bash
 git clone https://github.com/william-vext/Vexa-terminal-test.git
+```
 
-## Linux
+## Linux (Ubuntu / Debian)
 
-- sudo apt update
+Update packages:
 
-- sudo apt install git curl build- - - - essential clang python3 nodejs lua5.4
+```bash
+sudo apt update
+```
 
-clone the project:
+Install the required tools:
 
+```bash
+sudo apt install git curl build-essential clang python3 nodejs lua5.4 nano
+```
+
+Install Rust using rustup:
+
+https://rustup.rs/
+
+Clone the project:
+
+```bash
 git clone https://github.com/william-vext/Vexa-terminal-test.git
-
+```
 
 ## Windows 
 
-winget install -e --id Git.Git && winget install -e --id Python.Python.3.12 && winget install -e --id OpenJS.NodeJS && winget install -e --id Rustlang.Rustup && winget install -e --id LuaOrg.Lua.5.4
+Install Git:
 
-clone the project:
+```powershell
+winget install -e --id Git.Git
+```
 
+Install Rust:
+
+```powershell
+winget install -e --id Rustlang.Rustup
+```
+
+Install Python:
+
+```powershell
+winget install -e --id Python.Python.3.12
+```
+
+Install Node.js:
+
+```powershell
+winget install -e --id OpenJS.NodeJS
+```
+
+Install LLVM/Clang:
+
+```powershell
+winget install -e --id LLVM.LLVM
+```
+
+Lua 5.4 must also be installed and added to PATH.
+
+Clone the project:
+
+```powershell
 git clone https://github.com/william-vext/Vexa-terminal-test.git
+```
 
 ## Running Vexa
-After the installation run these commands to run Vexa:
 
-- cd Vexa
+Enter the project directory:
 
-- cargo run
+```bash
+cd Vexa-terminal-test
+```
+
+Run Vexa:
+
+```bash
+cargo run
+```
+
 
 
