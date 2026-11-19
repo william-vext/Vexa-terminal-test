@@ -10,7 +10,7 @@ The terminal test only supports 6 extensions (Rust,C++,C,JavaScript,Python,Lua) 
 The terminal test only supports 3 editors (Nano,Vim,Neovim)
 
 # Explaining Components
-- Rename -> change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
+## - Rename -> change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
 
 - Create -> create files and folders
 
