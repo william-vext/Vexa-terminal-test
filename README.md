@@ -114,3 +114,8 @@ pkg update && pkg upgrade
 pkg install git rust nano
 
 
+clone the project:
+
+git clone https://github.com/william-vext/Vexa-terminal-test.git
+
+
