@@ -10,27 +10,41 @@ The terminal test only supports 6 extensions (Rust,C++,C,JavaScript,Python,Lua) 
 The terminal test only supports 3 editors (Nano,Vim,Neovim)
 
 # Explaining Components
-## - Rename:
+## Rename:
 
 change the name of a file or folder, if the renamed file is C++ or Rust or C the executable is renamed too.
 
-- Create -> create files and folders
+## Create:
+create files and folders
 
-- Move -> can move files and folders to another folder
+## Move: 
+can move files and folders to another folder
 
-- Remove -> remove a file and remove the folder and all your content, this action is permanent 
+## Remove: 
+remove a file and remove the folder and all your content, this action is permanent 
 
-- Checker -> the component returns a true or false to a existence of a file or folder, the component can check if programs supported is installed or not
+## Checker:
+the component returns a true or false to a existence of a file or folder, the component can check if programs supported is installed or not
 
-- configurations -> Change the default code editor by modifying the code in the vexa.lock file
+## Configurations:
 
-- InvalidCharacter -> detect if the argument has invalid characters
+Change the default editor code by modifying the code in the vexa.lock file
 
-- Edit -> can change the file code
+## InvalidCharacter: 
 
-- Compile -> responsible for compiling/executing files or programs
+detect if the argument has invalid characters
 
-- Error -> Tell's what happend and why the operation can't be executed 
+## Edit: 
+
+can change the file code
+
+## Compile: 
+
+responsible for compiling/executing files or programs
+
+## Error:
+
+Tell's what happend and why the operation can't be executed 
 
 # Basic Commands:
 
