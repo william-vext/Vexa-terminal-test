@@ -32,32 +32,33 @@ Error -> Tell's what happend and why the operation can't be executed
 
 # Basic Commands:
 
-[WARNING]: The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
+## [WARNING]: 
+The letters in the commands must be lowercase, because the input function aren't lowercase, this command don't work: "Create RS file", but this work: "create rs file"
 
 
-Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
+- Create file: create file, create rs file, create c++ file, create c file, create js file, create py file, create lua file
 
-Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
+- Rename file: rnm file, rnm rs file, rnm c++ file, rnm c file, rnm js file, rnm py file, rnm lua file
 
-Move file: mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
+- Move file: mv file, mv rs file, mv c++ file, mv c file, mv js file, mv py file, mv lua file
 
-Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
+- Remove: rm file, rm rs file, rm c++ file, rm c file, rm js file, rm py file, rn lua file
 
-Create dir: mkdir, create dir, create folder
+- Create dir: mkdir, create dir, create folder
 
-Rename dir: rnm dir, rnm folder
+- Rename dir: rnm dir, rnm folder
 
-Move dir: mv dir, mv folder
+- Move dir: mv dir, mv folder
 
-Remove dir: rm -f dir 
+- Remove dir: rm -f dir 
 
-Check files and folders: ls
+- Check files and folders: ls
 
-Check files: checker rs file,checker c file, checker c++ file, checker c file, checker js file, checker py file, checker lua file
+- Check files: checker rs file,checker c file, checker c++ file, checker c file, checker js file, checker py file, checker lua file
 
-Check dir: checker folder
+- Check dir: checker folder
 
-Check compiler/interpreter/program supported: checker compiler
+- Check compiler/interpreter/program supported: checker compiler
 
 
 To compile the file you just need to enter the interpreter/compiler name:
