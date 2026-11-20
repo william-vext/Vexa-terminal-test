@@ -431,5 +431,15 @@ Run Vexa:
 cargo run
 ```
 
+# How many Vexa updates will there be?
+
+The CLI test will only have 1 update
+
+## What will change?
+the input function will be tolowercase, check any program version, check any program installed
+
+## When will the project be updated?
+the CLI will be updated on 30/11/2026
+
 
 
